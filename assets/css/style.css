@@ -1,0 +1,25 @@
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.caro {
+  position: absolute;
+  width: 1440px;
+  height: 448px;
+  left: 0px;
+  top: 80px;
+}
+
+.class-anda a {
+  text-decoration: none;
+} /*Atau */
+a {
+  text-decoration: none;
+}
+
+/* tinggi card */
+.post-body {
+  height: 300px;
+  position: relative;
+  padding: 10px 15px 0;
+}
